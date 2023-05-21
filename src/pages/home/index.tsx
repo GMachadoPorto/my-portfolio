@@ -51,7 +51,7 @@ export const Home = (): JSX.Element => {
               <Text as="span" type="heading1" color="brand1">
                 adoro
               </Text>{" "}
-              me sentir desafio e{" "}
+              me sentir desafiado e{" "}
               <Text as="span" type="heading1" color="brand1">
                 desenvolver
               </Text>{" "}
